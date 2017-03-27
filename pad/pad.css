@@ -1,0 +1,16 @@
+table {
+font-family:Courier;
+text-align: center;;
+color: black ;
+}
+th {
+font-size: 18px;
+padding: 10px;
+}
+td {
+width: 20px;	
+padding: 10px;
+}
+tr:nth-child(even) td {
+    background-color: ;
+}
